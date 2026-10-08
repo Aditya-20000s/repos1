@@ -1,6 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 i am ironman
+=======
+hi i am aditya
+>>>>>>> Stashed changes
 =======
 hi i am aditya
 >>>>>>> Stashed changes
